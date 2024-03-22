@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Snehal Darade
+-  Hi, I’m Snehal Darade
 -I'm a second year computer engineering student at VIT Pune, passionate about technology and eager to contribute to meaningful projects and collaborations.
-- 👀 I’m interested in Database Management,Web Development, Data Science and Analytics, Deep learning, Problem Solving.
-- 🌱 I’m currently learning PyTorch,JavaScript, NLP,Jupyter Notebook..
-- 💞️ I’m looking to collaborate on Open Source Projects,data science projects..
+-  I’m interested in Database Management,Web Development, Data Science and Analytics, Deep learning, Problem Solving.
+-  I’m currently learning PyTorch,JavaScript, NLP,Jupyter Notebook..
+-  I’m looking to collaborate on Open Source Projects,data science projects..
 
 
 <!---
